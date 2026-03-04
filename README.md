@@ -1,16 +1,38 @@
-## Hi there 👋
+# SazM
 
-<!--
-**sazmtech/sazmtech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web Development • Website Maintenance • AI Integration • Automation
 
-Here are some ideas to get you started:
+I build fast, scalable, SEO-optimized web platforms for businesses worldwide.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Core Technologies
+
+Next.js  
+React  
+Payload CMS  
+Node.js  
+PostgreSQL  
+TypeScript  
+
+## Services
+
+Web Development  
+Website Maintenance  
+Headless CMS Development  
+AI Integration  
+Automation Workflows  
+Performance Optimization  
+SEO-Optimized Web Platforms  
+
+## Projects
+
+- https://sazm.in
+- https://github.com/sazmco/sazm
+- https://github.com/sazmco/sazm-cms
+
+## Focus
+
+Building reliable, maintainable, and scalable production web systems.
+
+## Website
+
+https://sazm.in
