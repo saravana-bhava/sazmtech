@@ -1,121 +1,87 @@
 # SazM
 
-Web Development • Website Maintenance • AI Integration • Automation
+**Web Development • Maintenance & Support • AI Solutions • Automation**
 
-SazM builds fast, scalable, and SEO-optimized web platforms for businesses worldwide.
+Websites that grow your business.
 
-With over **20+ years of engineering experience** and **1000+ production projects delivered**, SazM focuses on reliable, maintainable, and high-performance web systems.
+SazM builds, maintains, and automates high-performance web platforms that are fast, reliable, and built for long-term scalability.
+
+With **20+ years of engineering experience** and **1,000+ production deployments**, the focus is on systems that don’t just launch — but continue to perform.
 
 🌐 https://sazm.in
 
 ---
 
-# Services
+## What We Do
 
-* Web Development
-* Website Maintenance
-* Headless CMS Development
-* WordPress Development
-* E-commerce Development
-* AI Integration
-* Automation Workflows
-* API Integrations
-* Performance Optimization
-* SEO-optimized web platforms
+- Web Development (custom websites & applications)  
+- Maintenance & Support (stability, updates, monitoring)  
+- AI Solutions (content systems, integrations, workflows)  
+- Business Automation (reduce manual work, improve efficiency)  
 
 ---
 
-# Technology Stack
+## What You Get
+
+- Faster websites → better conversions  
+- Reliable systems → fewer issues  
+- Automated workflows → less manual work  
+- Scalable platforms → ready for growth  
+- Long-term support → no technical stress  
+
+---
+
+## Technology Stack
 
 ### Frontend
-
-* Next.js
-* React
-* Tailwind CSS
-* HTML5
-* CSS3
-* JavaScript
+Next.js • React • Tailwind CSS • HTML5 • CSS3 • JavaScript  
 
 ### Backend
-
-* Node.js
-* PHP
-* REST APIs
+Node.js • PHP • REST APIs  
 
 ### CMS
-
-* Payload CMS
-* WordPress
-* Drupal
-* Joomla
+Payload CMS • WordPress • Drupal • Joomla  
 
 ### E-commerce
-
-* WooCommerce
-* Shopify
-* Magento
-* BigCommerce
+WooCommerce • Shopify • Magento • BigCommerce  
 
 ### Databases
-
-* PostgreSQL
-* MySQL
-* MongoDB
-* Redis
+PostgreSQL • MySQL • MongoDB • Redis  
 
 ### Infrastructure
-
-* AWS
-* Cloudflare
-* Vercel
-* Docker
-* Nginx
-* Apache
+AWS • Cloudflare • Vercel • Docker • Nginx • Apache  
 
 ---
 
-# Open Source Projects
+## Open Source
 
-* **nextjs-seo-starter**
-  SEO-optimized Next.js starter template
+- **nextjs-seo-starter**  
+  SEO-optimized Next.js starter  
 
-* **payload-nextjs-starter**
-  Payload CMS + Next.js full-stack starter
+- **payload-nextjs-starter**  
+  Payload CMS + Next.js full-stack starter  
 
-* **sazm-templates**
-  Modern dashboard and landing page templates
-
----
-
-# Focus Areas
-
-SazM builds and maintains platforms across industries including:
-
-* E-commerce
-* Healthcare
-* Real Estate
-* Education
-* Media
-* Business Platforms
+- **sazm-templates**  
+  Modern dashboard and landing templates  
 
 ---
 
-# Engineering Principles
+## Experience
 
-* SEO-first development
-* performance-driven architecture
-* scalable system design
-* secure authentication workflows
-* automation-driven operations
-* long-term maintainability
+- 20+ years engineering experience  
+- 1,000+ production deployments  
+- Platforms across e-commerce, healthcare, real estate, education, and media  
 
 ---
 
-# Contact
+## Work With SazM
 
-🌐 https://sazm.in
-📧 [contact@sazm.in](mailto:contact@sazm.in)
+If your website is slow, unstable, or hard to scale — it can be fixed properly.
+
+👉 https://sazm.in
+
+📧 contact@sazm.in
 
 ---
 
-SazM • Web Development • Website Maintenance • AI Integration • Automation
+SazM • Web Development • Maintenance & Support • AI Solutions • Automation
