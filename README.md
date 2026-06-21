@@ -1,87 +1,104 @@
-# SazM
+# SazM Engineering
 
-**Web Development • Maintenance & Support • AI Solutions • Automation**
+Engineering account responsible for building, maintaining, and evolving software platforms, products, and internal tooling within the SazM ecosystem.
 
-Websites that grow your business.
-
-SazM builds, maintains, and automates high-performance web platforms that are fast, reliable, and built for long-term scalability.
-
-With **20+ years of engineering experience** and **1,000+ production deployments**, the focus is on systems that don’t just launch — but continue to perform.
-
-🌐 https://sazm.in
+This profile focuses on software engineering, architecture, platform modernization, and long-term maintainability.
 
 ---
 
-## What We Do
+## Engineering Focus
 
-- Web Development (custom websites & applications)  
-- Maintenance & Support (stability, updates, monitoring)  
-- AI Solutions (content systems, integrations, workflows)  
-- Business Automation (reduce manual work, improve efficiency)  
-
----
-
-## What You Get
-
-- Faster websites → better conversions  
-- Reliable systems → fewer issues  
-- Automated workflows → less manual work  
-- Scalable platforms → ready for growth  
-- Long-term support → no technical stress  
+* Full-Stack Development
+* Software Architecture
+* Platform Modernization
+* Performance Engineering
+* Cloudflare & Edge Platforms
+* AI-Assisted Development
+* API Design & Integrations
+* Long-Term Maintainability
 
 ---
 
 ## Technology Stack
 
 ### Frontend
-Next.js • React • Tailwind CSS • HTML5 • CSS3 • JavaScript  
+
+* React
+* Next.js
+* Astro
+* TypeScript
+* JavaScript
+* Tailwind CSS
 
 ### Backend
-Node.js • PHP • REST APIs  
 
-### CMS
-Payload CMS • WordPress • Drupal • Joomla  
+* Node.js
+* PHP
+* Laravel
+* CodeIgniter
+* REST APIs
 
-### E-commerce
-WooCommerce • Shopify • Magento • BigCommerce  
+### Data
 
-### Databases
-PostgreSQL • MySQL • MongoDB • Redis  
+* PostgreSQL
+* MySQL
+* MongoDB
+* Redis
 
 ### Infrastructure
-AWS • Cloudflare • Vercel • Docker • Nginx • Apache  
+
+* Cloudflare
+* Docker
+* AWS
+* Vercel
+* Nginx
+* CI/CD
 
 ---
 
-## Open Source
+## Active Projects
 
-- **nextjs-seo-starter**  
-  SEO-optimized Next.js starter  
+### SazM
 
-- **payload-nextjs-starter**  
-  Payload CMS + Next.js full-stack starter  
+Modern software engineering and consulting platform.
 
-- **sazm-templates**  
-  Modern dashboard and landing templates  
+### Reelvo
 
----
+AI-powered content automation platform.
 
-## Experience
+### TrustAds
 
-- 20+ years engineering experience  
-- 1,000+ production deployments  
-- Platforms across e-commerce, healthcare, real estate, education, and media  
+Advertising management and reporting platform.
 
 ---
 
-## Work With SazM
+## Current Priorities
 
-If your website is slow, unstable, or hard to scale — it can be fixed properly.
-
-👉 https://sazm.in
-
-📧 contact@sazm.in
+* Platform Modernization
+* Software Architecture
+* Performance Optimization
+* AI Automation
+* Edge Computing
+* Developer Experience
+* Maintainable Systems
 
 ---
 
-SazM • Web Development • Maintenance & Support • AI Solutions • Automation
+## Engineering Principles
+
+* Simplicity over complexity
+* Long-term maintainability
+* Performance by default
+* Automation where practical
+* Documentation as infrastructure
+* Business outcomes over technical novelty
+
+---
+
+## Website
+
+https://sazm.in
+
+## Project Portfolio
+
+https://sazm.in/projects
