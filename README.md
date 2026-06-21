@@ -56,19 +56,23 @@ This profile focuses on software engineering, architecture, platform modernizati
 
 ---
 
-## Active Projects
+## Active Product Portfolio
 
 ### SazM
 
-Modern software engineering and consulting platform.
+Software engineering, platform modernization, and consulting platform.
 
 ### Reelvo
 
-AI-powered content automation platform.
+AI-powered content automation and publishing platform.
 
 ### TrustAds
 
 Advertising management and reporting platform.
+
+### Additional Internal Platforms
+
+Several private and client-specific systems are actively maintained and cannot be publicly disclosed.
 
 ---
 
@@ -95,6 +99,33 @@ Advertising management and reporting platform.
 
 ---
 
+## Professional Experience
+
+* 20+ Years Software Engineering Experience
+* 100+ Production Systems Delivered
+* Multiple Industries Served
+* Full Lifecycle Platform Ownership
+* Architecture, Development, Deployment, and Long-Term Support
+
+---
+
+## Industry Experience
+
+Solutions delivered across:
+
+* Healthcare & Wellness
+* E-Commerce & Retail
+* Education & Learning
+* Real Estate & Property
+* Media & Publishing
+* Nonprofit Organizations
+* Professional Services
+* Community Platforms
+* Events & Attractions
+* Business & Enterprise Systems
+
+---
+
 ## Website
 
 https://sazm.in
@@ -102,3 +133,11 @@ https://sazm.in
 ## Project Portfolio
 
 https://sazm.in/projects
+
+## Contact
+
+https://sazm.in/contact
+
+---
+
+Building reliable software, modernizing platforms, solving complex technical problems, and creating systems designed for long-term success.
