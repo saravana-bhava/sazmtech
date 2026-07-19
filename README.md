@@ -1,138 +1,154 @@
 # SazM Engineering
 
-Engineering account responsible for building, maintaining, and evolving software platforms, products, and internal tooling within the SazM ecosystem.
+Engineering account behind **SazM**.
 
-This profile focuses on software engineering, architecture, platform modernization, and long-term maintainability.
+Focused on software engineering, software architecture, platform modernization, AI engineering, and long-term software maintainability.
 
----
-
-## Engineering Focus
-
-* Full-Stack Development
-* Software Architecture
-* Platform Modernization
-* Performance Engineering
-* Cloudflare & Edge Platforms
-* AI-Assisted Development
-* API Design & Integrations
-* Long-Term Maintainability
+This profile contains production software, reusable engineering tooling, open-source projects, and internal frameworks developed through real-world engineering experience.
 
 ---
 
-## Technology Stack
+# Engineering Focus
 
-### Frontend
-
-* React
-* Next.js
-* Astro
-* TypeScript
-* JavaScript
-* Tailwind CSS
-
-### Backend
-
-* Node.js
-* PHP
-* Laravel
-* CodeIgniter
-* REST APIs
-
-### Data
-
-* PostgreSQL
-* MySQL
-* MongoDB
-* Redis
-
-### Infrastructure
-
-* Cloudflare
-* Docker
-* AWS
-* Vercel
-* Nginx
-* CI/CD
+- Software Engineering
+- Software Architecture
+- Platform Modernization
+- Technical Leadership
+- Performance Engineering
+- AI Engineering
+- Systems Integration
+- Cloudflare & Edge Platforms
+- Long-Term Maintainability
 
 ---
 
-## Active Product Portfolio
+# Technology Stack
 
-### SazM
+## Architecture
 
-Software engineering, platform modernization, and consulting platform.
+- Software Architecture
+- System Design
+- Platform Modernization
+- Technical Leadership
 
-### Reelvo
+## Infrastructure
+
+- Cloudflare
+- AWS
+- Vercel
+- Docker
+- Nginx
+- CI/CD
+
+## Backend
+
+- Node.js
+- PHP
+- Laravel
+- CodeIgniter
+- REST APIs
+- Authentication Systems
+
+## Frontend
+
+- React
+- Next.js
+- Astro
+- TypeScript
+- JavaScript
+- Tailwind CSS
+
+## Data
+
+- PostgreSQL
+- MySQL
+- SQLite
+- MongoDB
+- Redis
+
+## AI Engineering
+
+- OpenAI
+- AI-Assisted Development
+- Automation
+- Workflow Engineering
+
+---
+
+# Active Projects
+
+## SazM
+
+Software engineering, architecture, platform modernization, and consulting practice.
+
+## AI Dev OS
+
+AI-powered engineering workflow platform for planning, executing, reviewing, and managing software delivery.
+
+## Reelvo
 
 AI-powered content automation and publishing platform.
 
-### TrustAds
+## TrustAds
 
 Advertising management and reporting platform.
 
-### Additional Internal Platforms
+---
 
-Several private and client-specific systems are actively maintained and cannot be publicly disclosed.
+# Engineering Principles
+
+- Simplicity over complexity
+- Long-term maintainability
+- Performance by default
+- Architecture before implementation
+- Automation where practical
+- Engineering decisions should reduce long-term complexity
+- Business outcomes over technical novelty
 
 ---
 
-## Current Priorities
+# Experience
 
-* Platform Modernization
-* Software Architecture
-* Performance Optimization
-* AI Automation
-* Edge Computing
-* Developer Experience
-* Maintainable Systems
+- 20+ years of software engineering experience
+- 100+ production software systems delivered
+- Technical leadership across multiple industries
+- Full software lifecycle ownership
+- Architecture, development, deployment, modernization, and long-term support
 
 ---
 
-## Engineering Principles
+# Industries
 
-* Simplicity over complexity
-* Long-term maintainability
-* Performance by default
-* Automation where practical
-* Documentation as infrastructure
-* Business outcomes over technical novelty
+Engineering experience across:
 
----
-
-## Professional Experience
-
-* 20+ Years Software Engineering Experience
-* 100+ Production Systems Delivered
-* Multiple Industries Served
-* Full Lifecycle Platform Ownership
-* Architecture, Development, Deployment, and Long-Term Support
+- Healthcare
+- E-Commerce & Retail
+- Education
+- Real Estate
+- Financial Services
+- Media & Publishing
+- Professional Services
+- Manufacturing
+- Non-Profit
+- Enterprise Software
 
 ---
 
-## Industry Experience
+# Engineering Practice
 
-Solutions delivered across:
-
-* Healthcare & Wellness
-* E-Commerce & Retail
-* Education & Learning
-* Real Estate & Property
-* Media & Publishing
-* Nonprofit Organizations
-* Professional Services
-* Community Platforms
-* Events & Attractions
-* Business & Enterprise Systems
-
----
-
-## Website
-
-https://sazm.in
+🌐 https://sazm.in
 
 ## Project Portfolio
 
 https://sazm.in/projects
+
+## Case Studies
+
+https://sazm.in/case-studies
+
+## Engineering Insights
+
+https://sazm.in/articles
 
 ## Contact
 
@@ -140,4 +156,4 @@ https://sazm.in/contact
 
 ---
 
-Building reliable software, modernizing platforms, solving complex technical problems, and creating systems designed for long-term success.
+> Engineering software platforms that remain maintainable, adaptable, and valuable for years—not just until the next release.
